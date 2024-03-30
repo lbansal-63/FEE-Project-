@@ -1,3 +1,4 @@
 # FEE-Project-
 This is my portfolio and blog page development project 
-I study in Chitkara University.
+My name is Laksha Bansal 
+I read in chitkara University. 
